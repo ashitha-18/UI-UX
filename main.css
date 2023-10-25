@@ -9,14 +9,12 @@ body{
   margin: 0;
 }
 .bg {
-    /* The image used */
-    background-image: url("44.jpeg");
+    
+    background-color: #ffffff;
   
-    /* Full height */
+    
     height: 100%; 
     width: 100%;
-  
-    /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -56,14 +54,16 @@ body{
 }
 .heading{
     font-size: 70px;
-    color: #8c1c13;
+    color: #000000;
 }
 .sub{
     font-size: 50px;
 }
 .line1{
     font-size: 20px;
-    color: #bf4342;
+    color: #979292;
+    position: relative;
+    top: 10px;
 }
 .main{
     width: 70%;
@@ -71,33 +71,38 @@ body{
 }
 #about{
     height: 100vh;
-    background-color: #c6ac8f;
-    color: #8c1c13;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 #works{
-    height: 100vh;
-    background-color: #e7d7c1;
-    color: #8c1c13;
+    height: 450vh;
+    background-color: #ffffff;
+    color: #000000;
 
 }
 
 .link{
     text-decoration: none;
-    color: #bf4342;
+    color: #ffffff;
     font-size: 20px;
 }
 
 #contact{
-    height: 50%;
-    color:#e7d7c1;
-    background-color: #8c1c13;
+    height: 150px;
+    color:#ffffff;
+    background-color: #000000;
 }
 
 .link2{
     text-decoration: none;
-    color: #a78a7f;
+    color: #aaa5a3;
     margin-right: 60px;
     position: relative;
     left: 40px;
+}
+
+.para{
+    font-size: 24px;
+    color: #c2bfbf;
 }
