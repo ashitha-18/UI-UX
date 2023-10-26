@@ -1,3 +1,3 @@
-# PORTFOLIO - Artist
-web development project
-portfolio website for an artist
+# UIUX PORTFOLIO
+Intrigued by the ever-evolving world of UI/UX design and frontend development, I am an aspiring designer and developer who's passionate about crafting intuitive and visually captivating digital experiences.
+I'm enthusiastic about delving deeper into this dynamic field, eager to tackle new challenges, and dedicated to staying at the forefront of emerging design and development trends. My goal is to not only meet user needs but to exceed them, leaving a lasting impression. Let's collaborate and turn ideas into interactive realities, making the digital world a more engaging and user-friendly place. Together, we'll push boundaries and create experiences that resonate.
