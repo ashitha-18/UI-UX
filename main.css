@@ -106,3 +106,10 @@ body{
     font-size: 24px;
     color: #c2bfbf;
 }
+
+.w{
+    position: relative;
+    left: 200px;
+    width: 295px;
+    top: 200px;
+}
